@@ -8,6 +8,7 @@ makeCacheMatrix <- function(x = matrix())
   getinverse <- function() 
     {inverse}                #get the inverse matrix
     
+  inverse   #return the inverse
 }
 
 
